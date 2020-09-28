@@ -1,2 +1,2 @@
 # Database
-notes on Database Manipulation Language: SUID procedures (Select, Update, Insert and Delete procedures)
+notes on Database Manipulation Language: CRUD operations– Create, Read, Update, Delete
